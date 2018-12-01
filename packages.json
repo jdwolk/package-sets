@@ -820,7 +820,7 @@
       "generics-rep"
     ],
     "repo": "https://github.com/utkarshkukreti/purescript-hertz.git",
-    "version": "0.1.0"
+    "version": "v0.1.0"
   },
   "heterogeneous": {
     "dependencies": [
@@ -2170,6 +2170,18 @@
     ],
     "repo": "https://github.com/adkelley/purescript-webaudio.git",
     "version": "v0.1.2"
+  },
+  "weber": {
+    "dependencies": [
+      "prelude",
+      "console",
+      "effect",
+      "maybe",
+      "nullable",
+      "psci-support"
+    ],
+    "repo": "https://github.com/utkarshkukreti/purescript-weber.git",
+    "version": "v0.1.4"
   },
   "yargs": {
     "dependencies": [
