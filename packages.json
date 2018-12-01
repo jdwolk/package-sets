@@ -820,7 +820,7 @@
       "generics-rep"
     ],
     "repo": "https://github.com/utkarshkukreti/purescript-hertz.git",
-    "version": "v0.1.0"
+    "version": "master"
   },
   "heterogeneous": {
     "dependencies": [
