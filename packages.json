@@ -806,6 +806,22 @@
     "repo": "https://github.com/utkarshkukreti/purescript-hedwig.git",
     "version": "0.1.1"
   },
+  "hertz": {
+    "dependencies": [
+      "prelude",
+      "console",
+      "effect",
+      "weber",
+      "unsafe-coerce",
+      "arrays",
+      "strings",
+      "tuples",
+      "psci-support",
+      "generics-rep"
+    ],
+    "repo": "https://github.com/utkarshkukreti/purescript-hertz.git",
+    "version": "0.1.0"
+  },
   "heterogeneous": {
     "dependencies": [
       "either",
